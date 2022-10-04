@@ -1,5 +1,5 @@
 def Hello():
-    return "Hello, wrld!"
+    return "Hello, world!"
 def izmenenia():
     return "ix net"
 
